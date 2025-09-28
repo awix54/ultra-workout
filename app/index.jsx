@@ -1,5 +1,5 @@
 import { SafeAreaView } from 'react-native-safe-area-context'
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { View, Text, Modal, Button, StyleSheet, TouchableOpacity } from 'react-native';
 import { Calendar } from 'react-native-calendars';
 
